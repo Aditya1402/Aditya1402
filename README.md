@@ -1,8 +1,7 @@
 <h1 align="center">Hi folks!👋 I'm Aditya!</h1>
 <h3 align="center">I'm a passionate front-end developer from India. Currently pursuing Bachelors in Computer Science in Vellore Institute of Technology,Bhopal.</h3>
 
-![LinkedIn Math Teacher Profile Header Banner](https://user-images.githubusercontent.com/75464869/122560783-a9405180-d05e-11eb-9d5e-b2a181975690.png)
-
+![LinkedIn Banner (White)](https://user-images.githubusercontent.com/75464869/123506750-7cee8b80-d683-11eb-8a14-93aafbf8c26d.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya1402&label=Profile%20views&color=0e75b6&style=flat" alt="aditya1402" /> </p>
 
