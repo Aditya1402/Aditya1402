@@ -9,7 +9,7 @@
 
 <p align="center">
   <em>
-    This is ME, <a href = "www.linkedin.com/in/aditya-patil-b69791200"><b>Aditya Patil</b></a>, an <b>undergraduate</b> from <a href="https://vitbhopal.ac.in/"> <b>Vellore Institute of Technology</b>, Bhopal</a>. <br>
+    This is ME, <a target = _blank href = "https://www.linkedin.com/in/aditya-patil-b69791200/"><b>Aditya Patil</b></a>, an <b>undergraduate</b> from <a href="https://vitbhopal.ac.in/"> <b>Vellore Institute of Technology</b>, Bhopal</a>. <br>
     Am a budding <b>Full-Stack Software Developer</b> and a <b>Machine Learning Enthusiast</b>&nbsp;<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> myself and wants a <b>platform</b> to 
     <b>grow</b> and 
@@ -48,9 +48,9 @@
 
 <h4> <img src = "https://media.tenor.com/images/ee7c3e284b2f04a21cfdd9cbdf40dfd0/tenor.gif" width = "20"> GitHub Info </h4>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya1402&show_icons=true&locale=en&layout=compact" width = "430" alt="aditya1402" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya1402&show_icons=true&locale=en&layout=compact" width = "400" alt="aditya1402" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya1402&show_icons=true&locale=en" width = "430" alt="aditya1402" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya1402&show_icons=true&locale=en" width = "400" alt="aditya1402" /></p>
 
 
 <hr>
@@ -59,12 +59,12 @@
 <p align="center">
   
 <a href=""><img src="https://img.shields.io/badge/-Coming Soon..-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="www.linkedin.com/in/aditya-patil-b69791200"><img src="https://img.shields.io/badge/-Aditya%20Patil%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/aditya-patil-b69791200/"><img src="https://img.shields.io/badge/-Aditya%20Patil%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:aditya142002@gmail.com"><img src="https://img.shields.io/badge/-aditya142002@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/_adi1402_/"><img src="https://img.shields.io/badge/-@_adi1402_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
   
 <h4>Streak Life<img src = "https://media.tenor.com/images/c01649d5054a1ab973141262ddb2e5a4/tenor.gif" width ="20"> : </h4>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya1402&theme=dark" width = "430" alt="aditya1402" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya1402&theme=dark" width = "400" alt="aditya1402" /></p>
 
 </p>
 <hr>
