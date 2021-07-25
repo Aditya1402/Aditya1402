@@ -1,31 +1,72 @@
-<h1 align="center">Hi folks!👋 I'm Aditya!</h1>
-<h3 align="center">I'm a passionate front-end developer from India. Currently pursuing Bachelors in Computer Science in Vellore Institute of Technology,Bhopal.</h3>
 
-![LinkedIn Banner (White)](https://user-images.githubusercontent.com/75464869/123506750-7cee8b80-d683-11eb-8a14-93aafbf8c26d.png)
+<div align="center">
+   <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">,  I'm Aditya! </h1>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya1402&label=Profile%20views&color=0e75b6&style=flat" alt="aditya1402" /> </p>
+<h4 align = "center">Student at VIT-B || Web & App Developer || Machine Learning || Innovator || UI/UX </h4>
 
-- 🌱 I’m currently learning: **HTML,CSS,JS,NodeJS,Express.js**
+<hr>
 
-- 📝 I regularly write articles on [byteme1121.medium.com](byteme1121.medium.com)
-
-- 💬 Some technologies I enjoy include: **Machine Learning,Data Science,Computer Vision.etc**
-
-- 📫 How to reach me: **aditya142002@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/addi1402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="addi1402" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aditya-patil-b69791200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-patil-b69791200" height="30" width="40" /></a>
-<a href="https://instagram.com/_adi1402_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_adi1402_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aditya142002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aditya142002" height="30" width="40" /></a>
-<a href="https://discord.gg/#4304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#4304" height="30" width="40" /></a>
+<p align="center">
+  <em>
+    This is ME, <a href = "www.linkedin.com/in/aditya-patil-b69791200"><b>Aditya Patil</b></a>, an <b>undergraduate</b> from <a href="https://vitbhopal.ac.in/"> <b>Vellore Institute of Technology</b>, Bhopal</a>. <br>
+    Am a budding <b>Full-Stack Software Developer</b> and a <b>Machine Learning Enthusiast</b>&nbsp;<br>who is <b>obsessed</b>
+    with the idea of <b>improving</b> myself and wants a <b>platform</b> to 
+    <b>grow</b> and 
+    <b>excel.</b> <br>In my free time, I pursue <b>Graphic Design</b> and <b>Blog Writing</b> as side hustles!
+  </em> 
+  <br>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Turning COFFEE into CODE !!!</i></b> 
+  <hr>
+  
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya1402&label=Profile%20views&color=0e75b6&style=flat-square" alt="aditya1402" /> </p>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<img src="https://media.tenor.com/images/f15f2974d4685e7e55c8e5e4d31216f8/tenor.gif" width="45px">&nbsp;***Let's get you to know me!...***<br>
+<img alt="Night Coding" src="https://media.tenor.com/images/46237c9c908baba7ae1a7e7ee6ffbf30/tenor.gif" width = "180px" align="right"/><br>
+✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
+✔ I’m currently learning **ReactJS** & **Java**<br>
+✔ I’m looking to collaborate with any **Open - Source contribution**<br>
+✔ I regularly write articles on Medium<br>
+✔ Ask me about anything, I am happy to help, only if the ball is in my court😀<br>
+✔ <b>Fun Fact Check :</b> *At The time of Stress coding, I tend to be in half sleeping mode*<br><br><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya1402&show_icons=true&theme=merko&locale=en" alt="aditya1402" /></p>
+<h4>Go through my Tech Stack :</h4>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya1402&theme=dark" alt="aditya1402" /></p>
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+</p>
 
+<hr>
+
+<h4> <img src = "https://media.tenor.com/images/ee7c3e284b2f04a21cfdd9cbdf40dfd0/tenor.gif" width = "20"> GitHub Info </h4>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya1402&show_icons=true&locale=en&layout=compact" width = "430" alt="aditya1402" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya1402&show_icons=true&locale=en" width = "430" alt="aditya1402" /></p>
+
+
+<hr>
+<h4>Let's Connect <img src = "https://tenor.com/view/prank-messaging-gif-19137556.gif" width="35"  align = "center"> : </h4>
+
+<p align="center">
+  
+<a href=""><img src="https://img.shields.io/badge/-Coming Soon..-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="www.linkedin.com/in/aditya-patil-b69791200"><img src="https://img.shields.io/badge/-Aditya%20Patil%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:aditya142002@gmail.com"><img src="https://img.shields.io/badge/-aditya142002@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/_adi1402_/"><img src="https://img.shields.io/badge/-@_adi1402_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  
+<h4>Streak Life<img src = "https://media.tenor.com/images/c01649d5054a1ab973141262ddb2e5a4/tenor.gif" width ="20"> : </h4>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya1402&theme=dark" width = "430" alt="aditya1402" /></p>
+
+</p>
+<hr>
+<h4>Support Me: </h4>
+<a href="https://www.buymeacoffee.com/gbraad" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
