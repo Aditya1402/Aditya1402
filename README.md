@@ -62,8 +62,8 @@
 
 <h4> <img src = "https://media.tenor.com/images/ee7c3e284b2f04a21cfdd9cbdf40dfd0/tenor.gif" width = "20"> GitHub Info </h4>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya1402&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="aditya1402" width = "450" /> 
-   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya1402&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width = "450" alt="aditya1402" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya1402&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="aditya1402" width = "400" /> 
+   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya1402&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width = "400" alt="aditya1402" /></p>
 
 <hr>
 <h4>Let's Connect <img src = "https://tenor.com/view/prank-messaging-gif-19137556.gif" width="35"  align = "center"> : </h4>
@@ -79,7 +79,7 @@
    
  
 <h4>Streak Life<img src = "https://media.tenor.com/images/c01649d5054a1ab973141262ddb2e5a4/tenor.gif" width ="20"> : </h4>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya1402&theme=dark" width = "450" alt="aditya1402" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya1402&theme=dark" width = "400" alt="aditya1402" /></p>
 
 </p>
 <hr>
