@@ -20,7 +20,7 @@
   </em> 
   <br><br>
    
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=696969&size=18&vCenter=true&width=480&height=30&lines=%E2%98%95+Programming+Coffee+into+the+mug+%23%40%24%25+...;%E2%8F%B3+Compiling+Coffee+as+Code.obj+%3C%2F%3E;%F0%9F%94%97+Linking+with+CodeCoffee+%24%25%26*+...;Code+compiled+successfully!+Clean+code+detected.)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=4169e1&size=15&vCenter=true&width=480&height=30&lines=%E2%98%95+Programming+Coffee+into+the+mug+%23%40%24%25+...;%E2%8F%B3+Compiling+code+as+coffee.obj+%3C%2F%3E;%F0%9F%94%97+Linking+with+external+ingredients+%24%25%26*+...;Code+compiled+successfully!+Clean+brew+detected.)](https://git.io/typing-svg)
    
   <hr>
   
