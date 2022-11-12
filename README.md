@@ -1,4 +1,4 @@
-#### Hello. <br> I'm Aditya, <br> An Android & Flutter Developer.
+#### Hello. <br> I'm Aditya, <br> An Android & Flutter Engineer.
 
 #### Want to talk design or code? <br> [aditya142002@gmail.com](mailto:aditya142002@gmail.com)
 
